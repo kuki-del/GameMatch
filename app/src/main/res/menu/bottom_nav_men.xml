@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- IDs match nav_graph.xml so clicking a tab navigates automatically -->
+    <item
+        android:id="@+id/moodFragment"
+        android:icon="@android:drawable/ic_menu_search"
+        android:title="Discover" />
+    <item
+        android:id="@+id/favoritesFragment"
+        android:icon="@android:drawable/btn_star_big_off"
+        android:title="Favorites" />
+</menu>

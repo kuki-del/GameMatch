@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/moodFragment">
+
+    <!-- Screen 1: Mood & Platform Selection -->
+    <fragment
+        android:id="@+id/moodFragment"
+        android:name="com.example.gamematch.ui.mood.MoodFragment"
+        android:label="GameMatch Lite">
+        <action
+            android:id="@+id/action_mood_to_results"
+            app:destination="@id/resultsFragment" />
+    </fragment>
+
+    <!-- Screen 2: Ranked Recommendations -->
+    <fragment
+        android:id="@+id/resultsFragment"
+        android:name="com.example.gamematch.ui.results.ResultsFragment"
+        android:label="Top Matches" />
+
+    <!-- Screen 4: Saved Favorites -->
+    <fragment
+        android:id="@+id/favoritesFragment"
+        android:name="com.example.gamematch.ui.favorites.FavoritesFragment"
+        android:label="Favorites" />
+
+</navigation>

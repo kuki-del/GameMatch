@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Semantic UI Roles (used in fragment_mood.xml and upcoming screens) -->
+    <color name="bg_dark">#0E1013</color>           <!-- Main screen background[cite: 7, 8] -->
+    <color name="surface_card">#1B2023</color>      <!-- Unselected chips, dropdowns, & cards[cite: 7, 8] -->
+    <color name="surface_elevated">#293033</color>  <!-- Borders, dividers, & pressed states -->
+    <color name="surface_banner">#172017</color>    <!-- "Less scrolling" green-tinted card[cite: 7, 8] -->
+    <color name="banner_border">#273122</color>     <!-- Subtle border for green-tinted cards[cite: 8] -->
+    <color name="lime_accent">#D4F77D</color>       <!-- Primary lime CTA & selected chips[cite: 7, 8] -->
+    <color name="text_primary">#F5F3ED</color>      <!-- Warm off-white headings & labels[cite: 7, 8] -->
+    <color name="text_secondary">#A6ADA9</color>    <!-- Muted sage-gray subtitles & hints[cite: 7, 8] -->
+    <color name="text_on_lime">#0E1013</color>      <!-- Dark text on lime buttons/chips[cite: 7, 8] -->
+
+    <!-- Full Figma Palette Reference (for any extra borders/surfaces in Screens 2–4) -->
+    <color name="palette_cream">#F5F3ED</color>
+    <color name="palette_sage_gray">#A6ADA9</color>
+    <color name="palette_lime">#D4F77D</color>
+    <color name="palette_charcoal_1">#1B2023</color>
+    <color name="palette_forest_dark">#172017</color>
+    <color name="palette_slate_mid">#293033</color>
+    <color name="palette_obsidian">#0E1013</color>
+    <color name="palette_moss_border">#273122</color>
+    <color name="palette_slate_light">#303639</color>
+    <color name="palette_charcoal_2">#141C1D</color>
+    <color name="palette_charcoal_3">#141A18</color>
+</resources>
