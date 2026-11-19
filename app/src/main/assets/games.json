@@ -2,7 +2,7 @@
   {
     "id": 1,
     "title": "Outer Wilds",
-    "description": "Explore a mysterious solar system trapped in an endless time loop. Every 22 minutes, the sun goes supernova and you wake up at the campfire — until you uncover the truth behind the ancient alien ruins.",
+    "description": "Explore a mysterious solar system trapped in an endless time loop. Every 22 minutes, the sun goes supernova and you wake up at the campfire until you uncover ancient cosmic secrets.",
     "platforms": ["PC / Windows", "PlayStation", "Nintendo Switch"],
     "moods": ["Curious", "Adventurous", "Relaxed"],
     "coverUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/753640/header.jpg",
@@ -11,7 +11,7 @@
   {
     "id": 2,
     "title": "Journey",
-    "description": "Glide through vast deserts toward a distant mountain. A wordless, stunning adventure that you might share with a stranger — no voice chat, no names, just two figures in the sand.",
+    "description": "Glide through vast deserts toward a distant mountain. A wordless, stunning adventure that you can share with an anonymous stranger in the sand.",
     "platforms": ["PC / Windows", "PlayStation", "Mobile"],
     "moods": ["Relaxed", "Curious", "Nostalgic"],
     "coverUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/638230/header.jpg",
@@ -29,7 +29,7 @@
   {
     "id": 4,
     "title": "Hollow Knight",
-    "description": "Descend into Hallownest, a vast underground kingdom of insects and heroes. A challenging action-platformer with a haunting atmosphere and 40+ hours of exploration.",
+    "description": "Descend into Hallownest, a vast underground kingdom of insects and fallen heroes. A challenging action-platformer with deep exploration and haunting atmosphere.",
     "platforms": ["PC / Windows", "Nintendo Switch", "PlayStation", "Xbox"],
     "moods": ["Adventurous", "Focused", "Curious"],
     "coverUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/367520/header.jpg",
@@ -38,7 +38,7 @@
   {
     "id": 5,
     "title": "Rocket League",
-    "description": "Soccer meets high-powered rockets in this high-octane, physics-based sports game. Easy to learn, nearly impossible to master — perfect for competitive multiplayer sessions.",
+    "description": "Soccer meets rocket-powered acrobatics in this fast-paced competitive sports sensation. Easy to learn, difficult to master.",
     "platforms": ["PC / Windows", "PlayStation", "Xbox", "Nintendo Switch"],
     "moods": ["Competitive", "Energetic", "Social"],
     "coverUrl": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Frocket-league%2Fhome%2FRL_KeyArt_1920x1080-1920x1080-6e0b44a6d2a6e0e17e34591ed4ae3cbb3c7c5ef0.jpg",
@@ -47,7 +47,7 @@
   {
     "id": 6,
     "title": "Among Us",
-    "description": "Complete tasks on a spaceship — or sabotage them as the hidden Impostor. A social deduction game that is at its best in a living room full of screaming friends.",
+    "description": "Complete tasks across a spaceship or eliminate crewmates as a disguised Impostor in this legendary party social deduction game.",
     "platforms": ["PC / Windows", "Mobile", "Nintendo Switch", "PlayStation", "Xbox"],
     "moods": ["Social", "Energetic", "Competitive"],
     "coverUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/945360/header.jpg",
@@ -56,7 +56,7 @@
   {
     "id": 7,
     "title": "Minecraft",
-    "description": "Build anything you can imagine, from a simple cabin to a working computer — or just survive the night. The definitive sandbox experience with infinite replayability.",
+    "description": "Craft, mine, and build whatever you imagine, or embark on grand adventures through infinite procedural voxel biomes.",
     "platforms": ["PC / Windows", "PlayStation", "Xbox", "Nintendo Switch", "Mobile"],
     "moods": ["Creative", "Relaxed", "Adventurous"],
     "coverUrl": "https://www.minecraft.net/content/dam/games/minecraft/key-art/MC_Anniversary_KeyArt_1280x768.jpg",
@@ -65,7 +65,7 @@
   {
     "id": 8,
     "title": "Celeste",
-    "description": "Help Madeline survive her inner demons on her journey to the top of Celeste Mountain. A brutally challenging but deeply rewarding platformer with a touching story about mental health.",
+    "description": "Guide Madeline up Celeste Mountain through precision platforming trials while confronting inner doubts in a heartwarming story.",
     "platforms": ["PC / Windows", "PlayStation", "Xbox", "Nintendo Switch", "Mobile"],
     "moods": ["Focused", "Adventurous", "Nostalgic"],
     "coverUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/504230/header.jpg",
@@ -74,7 +74,7 @@
   {
     "id": 9,
     "title": "It Takes Two",
-    "description": "A couple on the verge of divorce are magically transformed into dolls. Work together through wildly creative co-op gameplay to fix your relationship — literally.",
+    "description": "Embark on an inventive, hilarious co-op adventure where two parents turned into dolls must solve wild challenges to reconnect.",
     "platforms": ["PC / Windows", "PlayStation", "Xbox", "Nintendo Switch"],
     "moods": ["Social", "Creative", "Curious"],
     "coverUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/header.jpg",
@@ -83,7 +83,7 @@
   {
     "id": 10,
     "title": "Hades",
-    "description": "Battle your way out of the Underworld in this rogue-like dungeon crawler. Each run is different, every death teaches you something, and the story unfolds through hundreds of conversations with Greek gods.",
+    "description": "Defy the god of the dead as Zagreus, hacking through Tartarus with legendary Olympian boons in this addictive rogue-like dungeon crawler.",
     "platforms": ["PC / Windows", "PlayStation", "Xbox", "Nintendo Switch", "Mobile"],
     "moods": ["Energetic", "Competitive", "Focused"],
     "coverUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145360/header.jpg",
@@ -92,7 +92,7 @@
   {
     "id": 11,
     "title": "Animal Crossing: New Horizons",
-    "description": "Build and decorate your own island paradise at your own pace. Fish, catch bugs, plant flowers, and invite adorable animal villagers to live with you.",
+    "description": "Create a cozy deserted island paradise. Fish, catch insects, build custom furniture, and chat with lovable animal neighbors at your own leisure.",
     "platforms": ["Nintendo Switch"],
     "moods": ["Relaxed", "Creative", "Social"],
     "coverUrl": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/software/switch/70010000025266/0a5003cbe0c0b1e3fc97a6e2a6d94e4e5f6e3b2a8b9d5f2c1e4b7c8a0d2e5f1.jpg",
@@ -101,7 +101,7 @@
   {
     "id": 12,
     "title": "LIMBO",
-    "description": "A boy enters LIMBO — a stark black-and-white world full of deadly traps — searching for his sister. A short, haunting puzzle-platformer you won't forget.",
+    "description": "Uncertain of his sister's fate, a young boy ventures into a sinister monochrome forest riddled with treacherous traps and eerie mysteries.",
     "platforms": ["PC / Windows", "PlayStation", "Xbox", "Nintendo Switch", "Mobile"],
     "moods": ["Curious", "Focused", "Nostalgic"],
     "coverUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/48000/header.jpg",
@@ -110,7 +110,7 @@
   {
     "id": 13,
     "title": "Forza Horizon 5",
-    "description": "Race through a stunning open-world Mexico with hundreds of cars. Whether you prefer competitive online racing or just cruising to a sunset, there's a race for every mood.",
+    "description": "Experience vibrant open world landscapes across Mexico in the world's greatest cars with thrilling driving expeditions and competitive races.",
     "platforms": ["PC / Windows", "Xbox"],
     "moods": ["Energetic", "Adventurous", "Competitive"],
     "coverUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1551360/header.jpg",
@@ -119,7 +119,7 @@
   {
     "id": 14,
     "title": "Unpacking",
-    "description": "Unpack boxes and arrange belongings into a new home. A zen puzzle game that tells a wordless life story through the objects we carry with us.",
+    "description": "A mindful zen puzzle game about the familiar experience of pulling possessions out of boxes and fitting them into rooms over a lifetime.",
     "platforms": ["PC / Windows", "PlayStation", "Xbox", "Nintendo Switch", "Mobile"],
     "moods": ["Relaxed", "Nostalgic", "Creative"],
     "coverUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1135690/header.jpg",
@@ -128,10 +128,235 @@
   {
     "id": 15,
     "title": "Overcooked! 2",
-    "description": "Cook meals and serve customers in increasingly chaotic kitchens — moving platforms, portals, and sushi conveyor belts included. The best and worst co-op game for couples.",
+    "description": "Work together or scream at each other as chefs racing against time across chaotic kitchens on rafts, alien planets, and moving trucks.",
     "platforms": ["PC / Windows", "PlayStation", "Xbox", "Nintendo Switch"],
     "moods": ["Social", "Energetic", "Competitive"],
     "coverUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/728880/header.jpg",
     "storeUrl": "https://store.steampowered.com/app/728880"
+  },
+  {
+    "id": 16,
+    "title": "The Legend of Zelda: Breath of the Wild",
+    "description": "Awake from a century-long slumber and traverse the boundless wilderness of Hyrule, scaling cliffs, solving shrines, and forging your own path.",
+    "platforms": ["Nintendo Switch"],
+    "moods": ["Adventurous", "Curious", "Creative"],
+    "coverUrl": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/software/switch/70010000000025/713726224490d09d584c8d381b1ecba86420d0ad5ab428139dbe7826a03e615f.jpg",
+    "storeUrl": "https://www.nintendo.com/us/store/products/the-legend-of-zelda-breath-of-the-wild-switch/"
+  },
+  {
+    "id": 17,
+    "title": "Portal 2",
+    "description": "Armed with an experimental portal device, solve ingenious physics puzzles and match wits with the brilliantly sarcastic AI GLaDOS.",
+    "platforms": ["PC / Windows", "Xbox", "Nintendo Switch"],
+    "moods": ["Curious", "Focused", "Creative"],
+    "coverUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/620/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/620"
+  },
+  {
+    "id": 18,
+    "title": "Elden Ring",
+    "description": "Rise, Tarnished, and be guided by grace to brandish the power of the Elden Ring across the vast Lands Between in an epic fantasy world.",
+    "platforms": ["PC / Windows", "PlayStation", "Xbox"],
+    "moods": ["Adventurous", "Focused", "Competitive"],
+    "coverUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1245620/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/1245620"
+  },
+  {
+    "id": 19,
+    "title": "Super Mario Odyssey",
+    "description": "Join Mario on a massive 3D globe-trotting sandbox adventure using his hat companion Cappy to capture and control objects, animals, and enemies.",
+    "platforms": ["Nintendo Switch"],
+    "moods": ["Adventurous", "Nostalgic", "Energetic"],
+    "coverUrl": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/software/switch/70010000000529/1c2605f1591f1530e3868ea8fe4eb723ff4b58e7fd75f8f309a1ff0985559cf9.jpg",
+    "storeUrl": "https://www.nintendo.com/us/store/products/super-mario-odyssey-switch/"
+  },
+  {
+    "id": 20,
+    "title": "Red Dead Redemption 2",
+    "description": "Arthur Morgan and the Van der Linde gang are on the run across the rugged American heartland in an incredible tale of loyalty and conviction.",
+    "platforms": ["PC / Windows", "PlayStation", "Xbox"],
+    "moods": ["Adventurous", "Relaxed", "Nostalgic"],
+    "coverUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/1174180"
+  },
+  {
+    "id": 21,
+    "title": "Cyberpunk 2077",
+    "description": "An open-world action-adventure RPG set in Night City, a megalopolis obsessed with power, glamour, and relentless cybernetic body modification.",
+    "platforms": ["PC / Windows", "PlayStation", "Xbox"],
+    "moods": ["Adventurous", "Energetic", "Curious"],
+    "coverUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/1091500"
+  },
+  {
+    "id": 22,
+    "title": "Terraria",
+    "description": "Dig, fight, explore, and build! Nothing is impossible in this action-packed 2D adventure blending classic creativity with intense combat.",
+    "platforms": ["PC / Windows", "PlayStation", "Xbox", "Nintendo Switch", "Mobile"],
+    "moods": ["Creative", "Adventurous", "Social"],
+    "coverUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/105600/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/105600"
+  },
+  {
+    "id": 23,
+    "title": "Genshin Impact",
+    "description": "Step into Teyvat, a vast world teeming with life and elemental energy. Search for your lost sibling through stunning landscapes and dungeons.",
+    "platforms": ["PC / Windows", "PlayStation", "Mobile"],
+    "moods": ["Adventurous", "Social", "Curious"],
+    "coverUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1245620/header.jpg",
+    "storeUrl": "https://genshin.hoyoverse.com"
+  },
+  {
+    "id": 24,
+    "title": "Valorant",
+    "description": "A 5v5 character-based tactical hero shooter where precise gunplay combines with unique agent abilities for unmatched competitive depth.",
+    "platforms": ["PC / Windows", "PlayStation", "Xbox"],
+    "moods": ["Competitive", "Focused", "Energetic"],
+    "coverUrl": "https://images.contentstack.io/v3/assets/blt370612131b6e0eb6/bltda40e945c2f3aa6e/64b596f7c8f2ae52c0dc89d5/VALORANT_PatchNotes_7.01_Banner.jpg",
+    "storeUrl": "https://playvalorant.com"
+  },
+  {
+    "id": 25,
+    "title": "Apex Legends",
+    "description": "Master an ever-growing roster of legendary characters with powerful abilities in a strategic fast-paced battle royale shooter.",
+    "platforms": ["PC / Windows", "PlayStation", "Xbox", "Nintendo Switch"],
+    "moods": ["Competitive", "Energetic", "Social"],
+    "coverUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/1172470"
+  },
+  {
+    "id": 26,
+    "title": "Dead Cells",
+    "description": "A rogue-lite, metroidvania action-platformer. You'll explore a sprawling, ever-changing castle with challenging 2D combat and zero checkpoints.",
+    "platforms": ["PC / Windows", "PlayStation", "Xbox", "Nintendo Switch", "Mobile"],
+    "moods": ["Focused", "Energetic", "Competitive"],
+    "coverUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/588650/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/588650"
+  },
+  {
+    "id": 27,
+    "title": "Slay the Spire",
+    "description": "Fuse deckbuilding with rogue-like mechanics. Craft a unique deck, encounter bizarre creatures, and discover relics of immense power.",
+    "platforms": ["PC / Windows", "PlayStation", "Xbox", "Nintendo Switch", "Mobile"],
+    "moods": ["Focused", "Relaxed", "Curious"],
+    "coverUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/646570/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/646570"
+  },
+  {
+    "id": 28,
+    "title": "Fall Guys",
+    "description": "Dive and dodge through hilarious obstacle courses alongside dozens of chaotic jellybean competitors in a frantic party battle royale.",
+    "platforms": ["PC / Windows", "PlayStation", "Xbox", "Nintendo Switch"],
+    "moods": ["Social", "Energetic", "Competitive"],
+    "coverUrl": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Ffall-guys%2Fhome%2FFG_KeyArt_1920x1080-1920x1080-bfcf12b2361b7f87bf594892c943aa5c2ee0385b.jpg",
+    "storeUrl": "https://store.epicgames.com/p/fall-guys"
+  },
+  {
+    "id": 29,
+    "title": "Subnautica",
+    "description": "Descend into the depths of an alien underwater world filled with lush coral reefs, deep volcanic trenches, and terrifying leviathans.",
+    "platforms": ["PC / Windows", "PlayStation", "Xbox", "Nintendo Switch"],
+    "moods": ["Curious", "Adventurous", "Focused"],
+    "coverUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/264710/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/264710"
+  },
+  {
+    "id": 30,
+    "title": "Sea of Thieves",
+    "description": "Sail together as pirates in an untamed shared open ocean. Hunt treasure, battle skeleton captains, and fire yourselves out of cannons.",
+    "platforms": ["PC / Windows", "PlayStation", "Xbox"],
+    "moods": ["Social", "Adventurous", "Relaxed"],
+    "coverUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172620/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/1172620"
+  },
+  {
+    "id": 31,
+    "title": "The Witcher 3: Wild Hunt",
+    "description": "You are Geralt of Rivia, mercenary monster slayer. Track down Ciri, the Child of Prophecy, across a war-torn continent filled with dark secrets.",
+    "platforms": ["PC / Windows", "PlayStation", "Xbox", "Nintendo Switch"],
+    "moods": ["Adventurous", "Nostalgic", "Curious"],
+    "coverUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/292030"
+  },
+  {
+    "id": 32,
+    "title": "GRIS",
+    "description": "A hopeful young girl lost in her own sorrow navigates an exquisitely hand-painted watercolor world using poetic abilities tied to grief.",
+    "platforms": ["PC / Windows", "PlayStation", "Xbox", "Nintendo Switch", "Mobile"],
+    "moods": ["Relaxed", "Nostalgic", "Curious"],
+    "coverUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/683320/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/683320"
+  },
+  {
+    "id": 33,
+    "title": "Ori and the Blind Forest",
+    "description": "A breathtaking action-platformer telling the emotional tale of a young orphan destined for heroics through lush, visually stunning hand-drawn art.",
+    "platforms": ["PC / Windows", "Xbox", "Nintendo Switch"],
+    "moods": ["Nostalgic", "Relaxed", "Focused"],
+    "coverUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/387290/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/387290"
+  },
+  {
+    "id": 34,
+    "title": "Cuphead",
+    "description": "A classic run-and-gun action game heavily focused on boss battles, inspired by 1930s cartoons with authentic hand-drawn cel animations.",
+    "platforms": ["PC / Windows", "PlayStation", "Xbox", "Nintendo Switch"],
+    "moods": ["Competitive", "Focused", "Nostalgic"],
+    "coverUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268910/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/268910"
+  },
+  {
+    "id": 35,
+    "title": "Dave the Diver",
+    "description": "Catch fish by day in the ever-shifting Blue Hole, and serve delicious sushi by night in this charming, casual deep-sea adventure.",
+    "platforms": ["PC / Windows", "PlayStation", "Nintendo Switch"],
+    "moods": ["Relaxed", "Curious", "Adventurous"],
+    "coverUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1868140/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/1868140"
+  },
+  {
+    "id": 36,
+    "title": "Baldur's Gate 3",
+    "description": "Gather your party and return to the Forgotten Realms in an epic story of fellowship, betrayal, sacrifice, and the lure of absolute power.",
+    "platforms": ["PC / Windows", "PlayStation", "Xbox"],
+    "moods": ["Adventurous", "Creative", "Curious"],
+    "coverUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/1086940"
+  },
+  {
+    "id": 37,
+    "title": "Balatro",
+    "description": "A poker-powered rogue-like deckbuilder where you play illegal poker hands, discover game-changing jokers, and trigger outrageous combos.",
+    "platforms": ["PC / Windows", "PlayStation", "Xbox", "Nintendo Switch", "Mobile"],
+    "moods": ["Focused", "Relaxed", "Curious"],
+    "coverUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2379780/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/2379780"
+  },
+  {
+    "id": 38,
+    "title": "Helldivers 2",
+    "description": "Join forces with up to three friends to spread Managed Democracy across the galaxy, blasting hordes of Terminids and Automatons in chaotic co-op.",
+    "platforms": ["PC / Windows", "PlayStation"],
+    "moods": ["Social", "Energetic", "Competitive"],
+    "coverUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553850/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/553850"
+  },
+  {
+    "id": 39,
+    "title": "Lethal Company",
+    "description": "Scavenge scrap on abandoned moons to meet the Company's quota with friends while desperately avoiding horrifying night creatures.",
+    "platforms": ["PC / Windows"],
+    "moods": ["Social", "Energetic", "Curious"],
+    "coverUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1966720/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/1966720"
+  },
+  {
+    "id": 40,
+    "title": "Disco Elysium",
+    "description": "A groundbreaking detective RPG where you wake up with total amnesia in a coastal district. Interrogate characters, solve murders, or take bribes.",
+    "platforms": ["PC / Windows", "PlayStation", "Xbox", "Nintendo Switch"],
+    "moods": ["Curious", "Nostalgic", "Focused"],
+    "coverUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632470/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/632470"
   }
 ]
