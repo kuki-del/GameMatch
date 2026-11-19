@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "title": "Outer Wilds",
+    "description": "Explore a mysterious solar system trapped in an endless time loop. Every 22 minutes, the sun goes supernova and you wake up at the campfire — until you uncover the truth behind the ancient alien ruins.",
+    "platforms": ["PC / Windows", "PlayStation", "Nintendo Switch"],
+    "moods": ["Curious", "Adventurous", "Relaxed"],
+    "coverUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/753640/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/753640"
+  },
+  {
+    "id": 2,
+    "title": "Journey",
+    "description": "Glide through vast deserts toward a distant mountain. A wordless, stunning adventure that you might share with a stranger — no voice chat, no names, just two figures in the sand.",
+    "platforms": ["PC / Windows", "PlayStation", "Mobile"],
+    "moods": ["Relaxed", "Curious", "Nostalgic"],
+    "coverUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/638230/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/638230"
+  },
+  {
+    "id": 3,
+    "title": "Stardew Valley",
+    "description": "Inherit your grandfather's farm and build a new life in Pelican Town. Farm, fish, mine, and form friendships in this endlessly cozy farming RPG.",
+    "platforms": ["PC / Windows", "Nintendo Switch", "Mobile"],
+    "moods": ["Relaxed", "Creative", "Nostalgic"],
+    "coverUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413150/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/413150"
+  },
+  {
+    "id": 4,
+    "title": "Hollow Knight",
+    "description": "Descend into Hallownest, a vast underground kingdom of insects and heroes. A challenging action-platformer with a haunting atmosphere and 40+ hours of exploration.",
+    "platforms": ["PC / Windows", "Nintendo Switch", "PlayStation", "Xbox"],
+    "moods": ["Adventurous", "Focused", "Curious"],
+    "coverUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/367520/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/367520"
+  },
+  {
+    "id": 5,
+    "title": "Rocket League",
+    "description": "Soccer meets high-powered rockets in this high-octane, physics-based sports game. Easy to learn, nearly impossible to master — perfect for competitive multiplayer sessions.",
+    "platforms": ["PC / Windows", "PlayStation", "Xbox", "Nintendo Switch"],
+    "moods": ["Competitive", "Energetic", "Social"],
+    "coverUrl": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Frocket-league%2Fhome%2FRL_KeyArt_1920x1080-1920x1080-6e0b44a6d2a6e0e17e34591ed4ae3cbb3c7c5ef0.jpg",
+    "storeUrl": "https://www.epicgames.com/store/en-US/p/rocket-league"
+  },
+  {
+    "id": 6,
+    "title": "Among Us",
+    "description": "Complete tasks on a spaceship — or sabotage them as the hidden Impostor. A social deduction game that is at its best in a living room full of screaming friends.",
+    "platforms": ["PC / Windows", "Mobile", "Nintendo Switch", "PlayStation", "Xbox"],
+    "moods": ["Social", "Energetic", "Competitive"],
+    "coverUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/945360/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/945360"
+  },
+  {
+    "id": 7,
+    "title": "Minecraft",
+    "description": "Build anything you can imagine, from a simple cabin to a working computer — or just survive the night. The definitive sandbox experience with infinite replayability.",
+    "platforms": ["PC / Windows", "PlayStation", "Xbox", "Nintendo Switch", "Mobile"],
+    "moods": ["Creative", "Relaxed", "Adventurous"],
+    "coverUrl": "https://www.minecraft.net/content/dam/games/minecraft/key-art/MC_Anniversary_KeyArt_1280x768.jpg",
+    "storeUrl": "https://www.minecraft.net/en-us/store/minecraft-java-bedrock-edition-pc"
+  },
+  {
+    "id": 8,
+    "title": "Celeste",
+    "description": "Help Madeline survive her inner demons on her journey to the top of Celeste Mountain. A brutally challenging but deeply rewarding platformer with a touching story about mental health.",
+    "platforms": ["PC / Windows", "PlayStation", "Xbox", "Nintendo Switch", "Mobile"],
+    "moods": ["Focused", "Adventurous", "Nostalgic"],
+    "coverUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/504230/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/504230"
+  },
+  {
+    "id": 9,
+    "title": "It Takes Two",
+    "description": "A couple on the verge of divorce are magically transformed into dolls. Work together through wildly creative co-op gameplay to fix your relationship — literally.",
+    "platforms": ["PC / Windows", "PlayStation", "Xbox", "Nintendo Switch"],
+    "moods": ["Social", "Creative", "Curious"],
+    "coverUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/1426210"
+  },
+  {
+    "id": 10,
+    "title": "Hades",
+    "description": "Battle your way out of the Underworld in this rogue-like dungeon crawler. Each run is different, every death teaches you something, and the story unfolds through hundreds of conversations with Greek gods.",
+    "platforms": ["PC / Windows", "PlayStation", "Xbox", "Nintendo Switch", "Mobile"],
+    "moods": ["Energetic", "Competitive", "Focused"],
+    "coverUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145360/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/1145360"
+  },
+  {
+    "id": 11,
+    "title": "Animal Crossing: New Horizons",
+    "description": "Build and decorate your own island paradise at your own pace. Fish, catch bugs, plant flowers, and invite adorable animal villagers to live with you.",
+    "platforms": ["Nintendo Switch"],
+    "moods": ["Relaxed", "Creative", "Social"],
+    "coverUrl": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/software/switch/70010000025266/0a5003cbe0c0b1e3fc97a6e2a6d94e4e5f6e3b2a8b9d5f2c1e4b7c8a0d2e5f1.jpg",
+    "storeUrl": "https://www.nintendo.com/en-US/store/products/animal-crossing-new-horizons-switch/"
+  },
+  {
+    "id": 12,
+    "title": "LIMBO",
+    "description": "A boy enters LIMBO — a stark black-and-white world full of deadly traps — searching for his sister. A short, haunting puzzle-platformer you won't forget.",
+    "platforms": ["PC / Windows", "PlayStation", "Xbox", "Nintendo Switch", "Mobile"],
+    "moods": ["Curious", "Focused", "Nostalgic"],
+    "coverUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/48000/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/48000"
+  },
+  {
+    "id": 13,
+    "title": "Forza Horizon 5",
+    "description": "Race through a stunning open-world Mexico with hundreds of cars. Whether you prefer competitive online racing or just cruising to a sunset, there's a race for every mood.",
+    "platforms": ["PC / Windows", "Xbox"],
+    "moods": ["Energetic", "Adventurous", "Competitive"],
+    "coverUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1551360/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/1551360"
+  },
+  {
+    "id": 14,
+    "title": "Unpacking",
+    "description": "Unpack boxes and arrange belongings into a new home. A zen puzzle game that tells a wordless life story through the objects we carry with us.",
+    "platforms": ["PC / Windows", "PlayStation", "Xbox", "Nintendo Switch", "Mobile"],
+    "moods": ["Relaxed", "Nostalgic", "Creative"],
+    "coverUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1135690/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/1135690"
+  },
+  {
+    "id": 15,
+    "title": "Overcooked! 2",
+    "description": "Cook meals and serve customers in increasingly chaotic kitchens — moving platforms, portals, and sushi conveyor belts included. The best and worst co-op game for couples.",
+    "platforms": ["PC / Windows", "PlayStation", "Xbox", "Nintendo Switch"],
+    "moods": ["Social", "Energetic", "Competitive"],
+    "coverUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/728880/header.jpg",
+    "storeUrl": "https://store.steampowered.com/app/728880"
+  }
+]
